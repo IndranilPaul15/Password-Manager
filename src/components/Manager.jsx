@@ -162,7 +162,7 @@ const Manager = () => {
                     <h2 className='bg-[#7695FF] text-white font-medium text-lg px-3 my-2 rounded-lg w-1/2 text-center mx-auto'>Your Passwords</h2>
                     {passwordArray.length === 0 && <div className='font-bold underline'>No Passwords to show</div>}
                     {passwordArray.length != 0 &&
-                        <table className="table-auto   bg-blue-50 border border-green-200">
+                        <table className="table-auto  mx-auto bg-blue-50 border border-green-200">
                             <thead className='bg-[#C7FFD8] border border-green-300 text-center '>
                                 <tr>
                                     <th className=' mx-4'>Website </th>
