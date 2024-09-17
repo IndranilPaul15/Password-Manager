@@ -136,6 +136,7 @@ const Manager = () => {
                 <span className='text-blue-500'> /&gt;</span>
             </h1>
             <p className='text-center p-5'>Your Personal Password Saver Protective and trusted</p>
+            <p className='text-center p-1'>Gublu i Love you Baby 😘😘😘</p>
             <div className="container mx-auto max-w-4xl ">
                 <div className=" mx-auto w-[90vw] md:w-[67vw] bg-gradient-to-br from-[aliceblue] to-blue-300 flex flex-col p-3 my-1 rounded-lg">
                     <input value={form.site} onChange={handelchange} className='rounded-full my-1  px-11 md:px-10 md:pl-20 border border-[#7695FF] focus:ring-blue-500 focus:outline-none focus:ring-1' type="text" name="site" id="1" placeholder="Enter Website Name" />
